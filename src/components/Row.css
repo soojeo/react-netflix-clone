@@ -1,12 +1,13 @@
 .row {
-    margin-left: 20px;
     color: white;
+    background-color: #111;
   }
   h2 {
     padding-left: 20px;
   }
   .slider {
     position: relative;
+    
   }
   .slider__arrow-left {
     background-clip: content-box;
