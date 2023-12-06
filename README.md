@@ -9,6 +9,23 @@ Axios를 활용하여 랜덤으로 영화정보를 받아와 id를 통해 포스
     ![Banner](https://github.com/soojeo/react-netflix-clone/blob/master/netflix/images/image5.png)
     HTML inline frame요소, 효과적으로 다른 HTML페이지를 현재 페이지에 포함시키는 중첩된 브라우저로 해당 웹페이지 안에 제한 없이 다른 페이지를 불러와서 삽입할 수 있음.
 
+* Row   
+    - document   
+    - scrollLeft   
+    scrollLeft을 통해 요소의 콘텐츠가 왼쪽 가장자리에서 스크롤 되는 픽셀 수를 가져오거나 설정.   
+    - innerWidth   
+    브라우즈 안 창 너비   
+    - Modal   
+    ![Row](https://github.com/soojeo/react-netflix-clone/blob/master/netflix/images/image2.png)
+
+* Footer   
+![Footer](https://github.com/soojeo/react-netflix-clone/blob/master/netflix/images/image3.png)
+
+* Search   
+![Search](https://github.com/soojeo/react-netflix-clone/blob/master/netflix/images/image4.png)
+e.target.value받아와서 setSearchValue로 주소 실시간 반환
+useLocation:pathname이랑 search 받아옴, 이걸 활용해서 검색 영화 끌어와야함
+useQuery: 주소의 q 이하 key값 받아옴, 검색대상 받아올것   
 
 function
 -------------
