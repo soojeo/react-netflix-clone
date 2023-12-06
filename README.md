@@ -6,7 +6,8 @@ Component
 ![Banner](https://github.com/soojeo/react-netflix-clone/blob/master/netflix/images/image6.png)
 Axios를 활용하여 랜덤으로 영화정보를 받아와 id를 통해 포스터와, 정보, 제목 등을 표기함.
     - Iframe
-    ![Banner](https://github.com/soojeo/react-netflix-clone/blob/master/netflix/images/image5.)png
+
+    ![Banner](https://github.com/soojeo/react-netflix-clone/blob/master/netflix/images/image5.png)
     HTML inline frame요소, 효과적으로 다른 HTML페이지를 현재 페이지에 포함시키는 중첩된 브라우저로 해당 웹페이지 안에 제한 없이 다른 페이지를 불러와서 삽입할 수 있음.
 
 
@@ -20,12 +21,15 @@ netflix앱에서는 the movie DB API 서버의 영화정보를 프론트엔드 �
 인스턴스화 하는 이유:반복되는 부분을 입력하지않기 위해
 
 * async/await
+
 비동기식 처리 방식으로
 프로미스 상태가 이행될 때까지 기다리다가 이행이 완료되면 그 결과값을 반환하고 다음코드 실행
 
 * Styled Component
+
 css-in-js에서 css를 처리할 수 있게 해주는 라이브러리
 npm install –save styled-components
 
 * 외부링크
+
 <https://styled-components.com/docs/basics>
